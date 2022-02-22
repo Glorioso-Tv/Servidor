@@ -3,6 +3,11 @@ referer="https://redecanaistv.net"
 referer_canal="https://sinalpublico.com/player3/ch.php?canal="
 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
 
+player="https://player.aovivotv.xyz/channels/"
+referer="https://www.tibiadown.com"
+referer_canal="https://player.aovivotv.xyz/channels/"
+user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+
 rcf1="https://beautyskincarebrasil.com/player3/serverfhlb.php?vid="
 rcf2="https://beautyskincarebrasil.com/player3/serverf2hlb.php?vid="
 rcf3="https://beautyskincarebrasil.com/player3/serverf3hlb.php?vid="
